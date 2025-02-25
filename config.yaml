@@ -20,3 +20,9 @@ framed_replay: false
 
 # enable JSON listing of available collections /collinfo.json
 enable_coll_info: true
+
+collections_root: collections
+enable_auto_colls: true
+
+collections:
+    # Your collections configuration here
